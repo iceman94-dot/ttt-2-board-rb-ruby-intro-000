@@ -1,1 +1,4 @@
-# Define the variable board below.
+Board
+row = " "," "," "
+row = " "," "," "
+row = " "," "," "
